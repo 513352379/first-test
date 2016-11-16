@@ -1,0 +1,2 @@
+hello,everyone:
+	这是我用git提交的第一个文件
